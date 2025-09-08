@@ -6,7 +6,16 @@ Strava API acess based on code of https://github.com/franchyze923/Code_From_Tuto
 
 Use the provided notebooks (`main.ipynb`, `single.ipynb`) to experiment with data fetching and plotting.
 
-Install? 
+## Installation
+Create and activate a virtual environment (e\.g\. with conda\):
+
+```bash
+conda create -n splort python=3\.x
+conda activate splort
+
+pip install poetry
+poetry install
+```
 
 ## License
 
