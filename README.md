@@ -13,7 +13,7 @@ Use the provided notebooks (`main.ipynb`, `single.ipynb`) to experiment with dat
 Create and activate a virtual environment (e\.g\. with conda\):
 
 ```bash
-conda create -n splort python=3\.x
+conda create -n splort python=3\.x # >3.8
 conda activate splort
 
 pip install poetry
