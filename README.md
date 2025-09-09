@@ -20,6 +20,3 @@ pip install poetry
 poetry install
 ```
 
-## License
-
-MIT License
